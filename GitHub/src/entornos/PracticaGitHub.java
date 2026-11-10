@@ -6,6 +6,7 @@ public class PracticaGitHub {
 		// TODO Auto-generated method stub
 		saludar("Ana");
 		saludar("Carlos");
+		saludar("Luis");
 		}
 		public static void saludar(String nombre) {
 		System.out.println("Hola, " + nombre);
